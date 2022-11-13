@@ -1,0 +1,12 @@
+body {
+    background-color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p, q, li {
+    color: aquamarine;
+}
+h1 {
+    color: cyan;
+    text-align: center;
+}
